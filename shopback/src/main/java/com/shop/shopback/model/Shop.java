@@ -22,5 +22,7 @@ public class Shop {
 
     @ElementCollection
     private List<String> Services;
+
+    
 }
 
